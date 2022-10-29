@@ -1,5 +1,4 @@
-﻿using Android.App;
-using Article_001.Models;
+﻿using Article_001.Models;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
